@@ -436,78 +436,6 @@ return array (
       'packagePath' => 'typo3conf/ext/doctrine_dbal/',
       'classesPath' => 'Classes/',
     ),
-    'michelf.phpmarkdown' => 
-    array (
-      'manifestPath' => '',
-      'composerName' => 'michelf/php-markdown',
-      'state' => 'active',
-      'packagePath' => 'Packages/Libraries/michelf/php-markdown/',
-      'classesPath' => 'Classes/',
-    ),
-    'nikic.phpparser' => 
-    array (
-      'manifestPath' => '',
-      'composerName' => 'nikic/php-parser',
-      'state' => 'active',
-      'packagePath' => 'Packages/Libraries/nikic/php-parser/',
-      'classesPath' => 'Classes/',
-    ),
-    'pimple.pimple' => 
-    array (
-      'manifestPath' => '',
-      'composerName' => 'pimple/pimple',
-      'state' => 'active',
-      'packagePath' => 'Packages/Libraries/pimple/pimple/',
-      'classesPath' => 'Classes/',
-    ),
-    'symfony.console' => 
-    array (
-      'manifestPath' => 'Symfony/Component/Console/',
-      'composerName' => 'symfony/console',
-      'state' => 'active',
-      'packagePath' => 'Packages/Libraries/symfony/console/',
-      'classesPath' => 'Classes/',
-    ),
-    'symfony.filesystem' => 
-    array (
-      'manifestPath' => 'Symfony/Component/Filesystem/',
-      'composerName' => 'symfony/filesystem',
-      'state' => 'active',
-      'packagePath' => 'Packages/Libraries/symfony/filesystem/',
-      'classesPath' => 'Classes/',
-    ),
-    'symfony.finder' => 
-    array (
-      'manifestPath' => 'Symfony/Component/Finder/',
-      'composerName' => 'symfony/finder',
-      'state' => 'active',
-      'packagePath' => 'Packages/Libraries/symfony/finder/',
-      'classesPath' => 'Classes/',
-    ),
-    'symfony.process' => 
-    array (
-      'manifestPath' => 'Symfony/Component/Process/',
-      'composerName' => 'symfony/process',
-      'state' => 'active',
-      'packagePath' => 'Packages/Libraries/symfony/process/',
-      'classesPath' => 'Classes/',
-    ),
-    'symfony.yaml' => 
-    array (
-      'manifestPath' => 'Symfony/Component/Yaml/',
-      'composerName' => 'symfony/yaml',
-      'state' => 'active',
-      'packagePath' => 'Packages/Libraries/symfony/yaml/',
-      'classesPath' => 'Classes/',
-    ),
-    'twig.twig' => 
-    array (
-      'manifestPath' => '',
-      'composerName' => 'twig/twig',
-      'state' => 'active',
-      'packagePath' => 'Packages/Libraries/twig/twig/',
-      'classesPath' => 'Classes/',
-    ),
     'phpunit' => 
     array (
       'state' => 'active',
@@ -622,15 +550,7 @@ return array (
       'packagePath' => 'typo3/sysext/workspaces/',
       'classesPath' => 'Classes/',
     ),
-    'sami.sami' => 
-    array (
-      'manifestPath' => '',
-      'composerName' => 'sami/sami',
-      'state' => 'inactive',
-      'packagePath' => 'Packages/Libraries/sami/sami/',
-      'classesPath' => 'Classes/',
-    ),
-  ),
+ ),
   'version' => 4,
 )
  ?>
