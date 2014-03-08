@@ -622,7 +622,15 @@ return array (
       'packagePath' => 'typo3/sysext/workspaces/',
       'classesPath' => 'Classes/',
     ),
-   ),
+    'sami.sami' => 
+    array (
+      'manifestPath' => '',
+      'composerName' => 'sami/sami',
+      'state' => 'inactive',
+      'packagePath' => 'Packages/Libraries/sami/sami/',
+      'classesPath' => 'Classes/',
+    ),
+  ),
   'version' => 4,
 )
  ?>
