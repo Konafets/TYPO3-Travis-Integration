@@ -360,6 +360,142 @@ return array (
       'packagePath' => 'typo3/sysext/scheduler/',
       'classesPath' => 'Classes/',
     ),
+    'doctrine.lexer' => 
+    array (
+      'manifestPath' => '',
+      'composerName' => 'doctrine/lexer',
+      'state' => 'active',
+      'packagePath' => 'Packages/Libraries/doctrine/lexer/',
+      'classesPath' => 'Classes/',
+    ),
+    'doctrine.annotations' => 
+    array (
+      'manifestPath' => '',
+      'composerName' => 'doctrine/annotations',
+      'state' => 'active',
+      'packagePath' => 'Packages/Libraries/doctrine/annotations/',
+      'classesPath' => 'Classes/',
+    ),
+    'doctrine.cache' => 
+    array (
+      'manifestPath' => '',
+      'composerName' => 'doctrine/cache',
+      'state' => 'active',
+      'packagePath' => 'Packages/Libraries/doctrine/cache/',
+      'classesPath' => 'Classes/',
+    ),
+    'doctrine.collections' => 
+    array (
+      'manifestPath' => '',
+      'composerName' => 'doctrine/collections',
+      'state' => 'active',
+      'packagePath' => 'Packages/Libraries/doctrine/collections/',
+      'classesPath' => 'Classes/',
+    ),
+    'doctrine.inflector' => 
+    array (
+      'manifestPath' => '',
+      'composerName' => 'doctrine/inflector',
+      'state' => 'active',
+      'packagePath' => 'Packages/Libraries/doctrine/inflector/',
+      'classesPath' => 'Classes/',
+    ),
+    'Doctrine.Common' => 
+    array (
+      'manifestPath' => '',
+      'composerName' => 'doctrine/common',
+      'state' => 'active',
+      'packagePath' => 'Packages/Libraries/doctrine/common/',
+      'classesPath' => 'Classes/',
+    ),
+    'Doctrine.DBAL' => 
+    array (
+      'manifestPath' => '',
+      'composerName' => 'doctrine/dbal',
+      'state' => 'active',
+      'packagePath' => 'Packages/Libraries/doctrine/dbal/',
+      'classesPath' => 'Classes/',
+    ),
+    'doctrine_dbal' => 
+    array (
+      'manifestPath' => '',
+      'composerName' => 'typo3/doctrine_dbal',
+      'state' => 'active',
+      'packagePath' => 'typo3conf/ext/doctrine_dbal/',
+      'classesPath' => 'Classes/',
+    ),
+    'michelf.phpmarkdown' => 
+    array (
+      'manifestPath' => '',
+      'composerName' => 'michelf/php-markdown',
+      'state' => 'active',
+      'packagePath' => 'Packages/Libraries/michelf/php-markdown/',
+      'classesPath' => 'Classes/',
+    ),
+    'nikic.phpparser' => 
+    array (
+      'manifestPath' => '',
+      'composerName' => 'nikic/php-parser',
+      'state' => 'active',
+      'packagePath' => 'Packages/Libraries/nikic/php-parser/',
+      'classesPath' => 'Classes/',
+    ),
+    'pimple.pimple' => 
+    array (
+      'manifestPath' => '',
+      'composerName' => 'pimple/pimple',
+      'state' => 'active',
+      'packagePath' => 'Packages/Libraries/pimple/pimple/',
+      'classesPath' => 'Classes/',
+    ),
+    'symfony.console' => 
+    array (
+      'manifestPath' => 'Symfony/Component/Console/',
+      'composerName' => 'symfony/console',
+      'state' => 'active',
+      'packagePath' => 'Packages/Libraries/symfony/console/',
+      'classesPath' => 'Classes/',
+    ),
+    'symfony.filesystem' => 
+    array (
+      'manifestPath' => 'Symfony/Component/Filesystem/',
+      'composerName' => 'symfony/filesystem',
+      'state' => 'active',
+      'packagePath' => 'Packages/Libraries/symfony/filesystem/',
+      'classesPath' => 'Classes/',
+    ),
+    'symfony.finder' => 
+    array (
+      'manifestPath' => 'Symfony/Component/Finder/',
+      'composerName' => 'symfony/finder',
+      'state' => 'active',
+      'packagePath' => 'Packages/Libraries/symfony/finder/',
+      'classesPath' => 'Classes/',
+    ),
+    'symfony.process' => 
+    array (
+      'manifestPath' => 'Symfony/Component/Process/',
+      'composerName' => 'symfony/process',
+      'state' => 'active',
+      'packagePath' => 'Packages/Libraries/symfony/process/',
+      'classesPath' => 'Classes/',
+    ),
+    'symfony.yaml' => 
+    array (
+      'manifestPath' => 'Symfony/Component/Yaml/',
+      'composerName' => 'symfony/yaml',
+      'state' => 'active',
+      'packagePath' => 'Packages/Libraries/symfony/yaml/',
+      'classesPath' => 'Classes/',
+    ),
+    'twig.twig' => 
+    array (
+      'manifestPath' => '',
+      'composerName' => 'twig/twig',
+      'state' => 'active',
+      'packagePath' => 'Packages/Libraries/twig/twig/',
+      'classesPath' => 'Classes/',
+    ),
     'setup' => 
     array (
       'manifestPath' => '',
